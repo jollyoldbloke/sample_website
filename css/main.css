@@ -5,3 +5,37 @@
 .nav-menu {
   text-align: right;
 }
+.nav-menu-decoration {
+  text-decoration: none;
+}
+.image-link {
+  text-decoration: none;
+}
+.quote {
+  padding: 2px 20px;
+  background: #cccccc;
+}
+.moby-header {
+  text-align: center;
+  margin: 0 0 80px;
+}
+.moby {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+.moby-pic {
+  float: left;
+  margin: 0 40px 0 0;
+}
+.moby-quote {
+  font-style: italic;
+  font-size: 20px;
+}
+.moby-ishmael {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;
+}
